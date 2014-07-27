@@ -1,0 +1,189 @@
+Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
+
+
+Shownotes zu MobileMacs 012 Die Welt ist eine Scheibe
+Vom: 04.09.2008
+Download: <http://mobilemacs.de/2008/09/mm012-die-welt-ist-eine-scheibe.html> 
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMMrelive-012&time=20%3A00%3A00&Button=Create%21>
+Mit: Tim @timpritlove, Max @343max, Denis @denis2342 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es:
+
+Zusammengetragen von: hanz @kaeffchen_heinz, @evitabley, @johannes_k
+
+00:00:00 Intro und Begrüßung #chapter
+iTV <http://de.wikipedia.org/wiki/Apple_TV> #wikilink
+VLC <http://de.wikipedia.org/wiki/VLC_media_player> #wikilink
+UPNP (Server)
+Spreeblick Blog <http://www.spreeblick.com/> #homepage
+Knight Rider <http://de.wikipedia.org/wiki/Knight_Rider> #wikilink
+
+00:03:40 Tims iPhone 3G #chapter
+
+Jailbreak <http://de.wikipedia.org/wiki/Jailbreak_%28iOS%29> #wikilink
+iPhone OS 2.02 <http://de.wikipedia.org/wiki/IPhone_OS#Versionen> #wikilink
+GPS auf dem iPhone
+- TomTom <http://de.wikipedia.org/wiki/TomTom> #wikilink
+- Garmin <http://de.wikipedia.org/wiki/Garmin> #wikilink
+GPS Tracker <https://itunes.apple.com/de/app/gps-tracker/id286658744?mt=8> #shopping
+instamapper.com  <http://www.instamapper.com/> #homepage
+Barentssee <http://de.wikipedia.org/wiki/Barentssee> #wikilink
+APN Konfiguration <http://de.wikipedia.org/wiki/Access_Point_Name> #wikilink
+EDGE <http://de.wikipedia.org/wiki/Enhanced_Data_Rates_for_GSM_Evolution> #wikilink
+Griffin Kopfhörer von Sony <http://www.mobilefun.de/28046-griffin-smarttalk-kopfhoerer-adapter-fuer-iphone-und-ipod.htm> #homepage
+IFA <http://de.wikipedia.org/wiki/Internationale_Funkausstellung_Berlin> #wikilink
+iSync <http://de.wikipedia.org/wiki/ISync> #wikilink
+DRM <http://de.wikipedia.org/wiki/Digitale_Rechteverwaltung> #wikilink
+
+00:45:00 Podcastrant von Tim #chapter
+Autocorrection <http://en.wikipedia.org/wiki/Autocorrection> #wikilink
+Nicknamesuche <http://de.wikipedia.org/wiki/Nickname> #wikilink
+Google Mobile App <http://www.google.com/intl/de_ALL/mobile/google-mobile-app/> #homepage
+Multitasking <http://de.wikipedia.org/wiki/Multitasking> #wikilink
+Remote <http://en.wikipedia.org/wiki/Apple_Remote> #wikilink
+iPod Click Wheel <http://en.wikipedia.org/wiki/Click_wheel> #wikilink
+Quick Time <http://de.wikipedia.org/wiki/Quick_Time> #wikilink
+Lyrics <http://de.wikipedia.org/wiki/Liedtext> #wikilink
+Landscape Mode
+Cydia Werbung <http://de.wikipedia.org/wiki/Cydia> #wikilink
+
+01:22:00 Applikationen #chapter
+Click & Buy <http://de.wikipedia.org/wiki/Click_and_buy> #wikilink
+Flughafen Anzeige Tafeln <http://de.wikipedia.org/wiki/Flight_Information_Display_System> #wikilink
+Apps
+- Banner Free <https://itunes.apple.com/app/banner-free/id285522567?mt=8> #shopping
+- Things <https://itunes.apple.com/app/things/id284971781?mt=8> #shopping
+- Twitterific <http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284540316&mt=8> #shopping
+- NetNewsWire <https://itunes.apple.com/app/netnewswire/id284881860?mt=8> #shopping
+- Remote <https://itunes.apple.com/app/remote/id284417350?mt=8> #shopping
+- DataCase <https://itunes.apple.com/app/datacase/id287464320?mt=8> #shopping
+- Shazam <https://itunes.apple.com/app/shazam/id284993459?mt=8> #shopping
+- Fahr-Info Berlin <https://itunes.apple.com/app/fahrinfo-berlin/id284971745?mt=8> #shopping
+- Circulator <https://itunes.apple.com/app/lendromat/id284181886?mt=8> #shopping
+- Evernote <https://itunes.apple.com/app/evernote/id281796108?mt=8> #shopping
+- Tuner Internet Radio <https://itunes.apple.com/app/tuner-internet-radio/id284205617?mt=8> #shopping
+- Newtonica <https://itunes.apple.com/app/newtonica/id288799326?mt=8> #shopping
+-Galcon <https://itunes.apple.com/app/galcon/id285820845?mt=8> #shopping
+Palringo <https://www.palringo.com/de/de/> #homepage
+Google Maps <http://maps.google.de>
+App Fresh <http://metaquark.de/appfresh/mac> #homepage
+
+01:52:00 Google Chrome Browser #chapter
+Google Chrome <http://www.google.com/intl/de/chrome/browser/> #homepage
+AddBlocker <http://de.wikipedia.org/wiki/Werbeblocker> #wikilink
+MobileMacs Folge 007 <http://mobilemacs.de/2008/06/mm007-halbfinale.html> #podcast
+Symbian <http://de.wikipedia.org/wiki/Symbian-Plattform> #wikilink
+Android <http://de.wikipedia.org/wiki/Android_%28Betriebssystem%29> #wikilink
+Wii <http://de.wikipedia.org/wiki/Wii> #wikilink
+Opera <http://de.wikipedia.org/wiki/Opera> #wikilink
+Webkit <http://de.wikipedia.org/wiki/Webkit> #wikilink
+Goldstandard <http://de.wikipedia.org/wiki/Goldstandard_%28Verfahren%29> #wikilink
+X 86 <http://de.wikipedia.org/wiki/X86-Prozessor> #wikilink
+Tab <http://de.wikipedia.org/wiki/Registerkarte> #wikilink
+Flash <http://de.wikipedia.org/wiki/Adobe_Flash> #wikilink
+Youtube <http://www.youtube.com> #homepage
+JavaScript <http://de.wikipedia.org/wiki/JavaScript> #wikilink
+Mozilla <http://de.wikipedia.org/wiki/Mozilla> #wikilink
+TraceMonkey <http://de.wikipedia.org/wiki/TraceMonkey#TraceMonkey> #wikilink
+Safari <http://de.wikipedia.org/wiki/Safari_%28Browser%29> #wikilink
+Google Toolbar <http://de.wikipedia.org/wiki/Google_Toolbar> #wikilink
+Omniweb <http://de.wikipedia.org/wiki/Omniweb> #wikilink
+Netscape <http://de.wikipedia.org/wiki/Netscape_Navigator> #wikilink
+Phishing <http://de.wikipedia.org/wiki/Phishing> #wikilink
+Bootcamp <http://de.wikipedia.org/wiki/Boot_Camp_%28Software%29> #wikilink
+
+02:24:00 GoogleDocs #chapter
+Google Docs <http://de.wikipedia.org/wiki/Google_Docs> #wikilink
+Camino <http://caminobrowser.org/> #homepage
+Keychain <http://en.wikipedia.org/wiki/Keychain_%28Mac_OS%29> #wikilink
+Legacy OS
+Rapsody
+Firefox QT-Version <QT Link>
+Nokia <http://de.wikipedia.org/wiki/Nokia> #wikilink
+Webkit <http://de.wikipedia.org/wiki/WebKit> #wikilink
+Motorola <http://de.wikipedia.org/wiki/Motorola> #wikilink
+geht es richtig schlecht: Umsatzeinbrüche.
+Razor Telefone haben sich gut verkauft <http://de.wikipedia.org/wiki/Razor> #wikilink
+Symbian wird aufgekauft um es sterben zu lassen <http://de.wikipedia.org/wiki/Symbian> #wikilink
+EPOC isist "early 90s"<http://de.wikipedia.org/wiki/EPOC> #wikilink
+Unix <http://de.wikipedia.org/wiki/Unix> #wikilink
+Multithreading <http://de.wikipedia.org/wiki/Multithreading> #wikilink
+Mach <http://de.wikipedia.org/wiki/Mach_(Kernel)> 
+
+02:42:00 iPod und Macbook #chapter
+Neuer iPod Nano <http://de.wikipedia.org/wiki/IPod_nano#iPod_nano> #wikilink
+iPod touch <http://de.wikipedia.org/wiki/Ipod_Touch> #wikilink
+Neues MacBook ist gewünscht. #spoiler
+SATA Anschluss <http://de.wikipedia.org/wiki/Serial_ATA> #wikilink
+TargetModus um MacBook als externe Platte für Backups zu nutzen <http://en.wikipedia.org/wiki/Target_Disk_Mode> #wikilink
+USB3 <http://en.wikipedia.org/wiki/USB_3.0> #wikilink
+FireWire <http://de.wikipedia.org/wiki/Firewire> #wikilink
+
+02:47:00 Kommentare #chapter
+Denis hat ein  
+- Macbook Pro <http://de.wikipedia.org/wiki/Cinema_Display> #wikilink
+und ein 
+- Cinema Display  <http://de.wikipedia.org/wiki/MacBook_Pro> #wikilink
+- <http://de.wikipedia.org/wiki/Power_Mac_G4#Power_Mac_G4> #wikilink
+- <http://de.wikipedia.org/wiki/Apple_AirPort#AirPort_Express> #wikilink
+
+Max hat ein
+
+- Macbook Pro <http://de.wikipedia.org/wiki/MacBook_Pro> #wikilink
+- Apple Trackpad <http://de.wikipedia.org/wiki/Apple_Magic_Trackpad> #wikilink
+- Pentium 4 Home Server <http://de.wikipedia.org/wiki/Pentium_4> #wikililink
+- XBOX <http://de.wikipedia.org/wiki/Xbox_360> #wikilink
+
+Tim hat ein kleines Schwarzes #spoiler
+- MacBook Schwarz <http://de.wikipedia.org/wiki/MacBook> #wikilink
+- MacMini <http://de.wikipedia.org/wiki/Mac_mini> #wikilink
+- Time Capsule <http://de.wikipedia.org/wiki/Time_Capsule>
+- Wireless Keyboard <http://de.wikipedia.org/wiki/Wireless_Keyboard> #wikilink
+- Bluetooth Mouse <http://de.wikipedia.org/wiki/Apple_Magic_Mouse> #wikilink
+- iPhone <http://de.wikipedia.org/wiki/Iphone> #wikilink
+
+02:59:20 Hörer first und  Navigation von TomTom #chapter
+Hörerfragen gehen vor. #spoiler
+SWAP-Files <http://de.wikipedia.org/wiki/Swapping> #wikilink
+Smart Sleep <http://www.jinx.de/SmartSleep.html> #homepage
+Hibernate <http://de.wikipedia.org/wiki/Hibernate_(Framework)> #wikilink
+pmset <http://en.wikipedia.org/wiki/Pmset> #wikilink
+DeInstaller auf dem Mac ist nicht ausgereift. #spoiler
+Ein Hörer bitttet um ein Foto der Aufnehmenden. Es ist jedoch zu wenig Licht und keine Ausgehfrisur vorhanden. #spoiler
+AFP <http://de.wikipedia.org/wiki/Apple_Filing_Protocol> #wikilink
+SMB <http://de.wikipedia.org/wiki/Server_Message_Block> #wikilink
+CRE 097 File & Print Sharing <http://cre.fm/cre097> #podcast
+Netatalk <http://de.wikipedia.org/wiki/Netatalk> #wikilink
+Roboter Dino <http://www.youtube.com/watch?v=xcy98AI0C4I> #video
+TomTom
+- Homepage <http://www.tomtom.com/de_de/> #homepage
+- Wikipedia <http://de.wikipedia.org/wiki/TomTom> #wikilink
+Tim erklärt die Navigation von TomTom
+TMC <http://de.wikipedia.org/wiki/Traffic_Message_Channel> #wikilink
+Verkehrsstau <http://de.wikipedia.org/wiki/Verkehrsstau> #wikilink
+MapShare <http://www.tomtom.com/de_de/maps/map-share/> #link
+
+03:23:00 Fernseher #chapter
+LCD Fernseher <http://de.wikipedia.org/wiki/Fl%C3%BCssigkristallanzeige> #wikilink
+Scart <http://de.wikipedia.org/wiki/Scart> #wikilink
+DVI <http://de.wikipedia.org/wiki/DVI> #wikilink
+"Die Leute schauen auf Fernsehern Fernsehen." #spoiler
+Panasonic <http://de.wikipedia.org/wiki/Panasonic> #wikilink
+LG <http://de.wikipedia.org/wiki/LG_Group> #wiklink
+Loewe <http://de.wikipedia.org/wiki/Loewe_AG> #wikilink
+Amiga <http://de.wikipedia.org/wiki/Amiga> #wikilink
+
+03:32:00 Blinkenlights und Verabschiedung #chapter
+Blinkenlights <http://de.wikipedia.org/wiki/Projekt_Blinkenlights> #wikilink
+Toronto <http://de.wikipedia.org/wiki/Toronto> #wikliink
+Wireless-Dimmer ermöglichen eine kabellose Blinkenlights-Installation. #spoiler
+EPC <http://de.wikipedia.org/wiki/Asus_Eee_PC> #wikilink
+City Hall <http://de.wikipedia.org/wiki/City_Hall_%28Toronto%29> #wikilink
+Introducing Stereoscope <http://blinkenlights.net/blog/archive/200809/introducing-stereoscope> #homepage
+Toronto Documentation Video <http://vimeo.com/6175371#> #video
+
+
+
+
+
+
