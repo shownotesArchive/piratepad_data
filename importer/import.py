@@ -27,7 +27,7 @@ with open(file) as csvfile:
         if is_podcast:
             print(full_file + " (" + str(len(lines)) + ") => " + pod + " " + number)
 
-            parse_lines = osf.parse_lines(lines)
+            header, parse_lines = osf.parse_lines(lines)
             osf_lines = osf.objectify_lines(parse_lines)
 
             for line in osf_lines:
